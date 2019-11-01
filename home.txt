@@ -1,0 +1,1 @@
+echo "export PS1="[\u@\[\e[0;31m\]\h\[\e[m\] \w]\\$ "" >> /etc/profile
